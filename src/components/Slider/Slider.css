@@ -1,0 +1,11 @@
+.slick-slide {
+  width: 100%;
+}
+
+.slide {
+  background-color: #000;
+}
+
+.slide__img {
+  width: 100%;
+}

@@ -1,0 +1,20 @@
+.social {
+  padding: 0;
+  display: inline-flex;
+}
+
+.social img {
+  width: 30px;
+}
+
+.social__el {
+  margin-right: 10px;
+}
+
+.social__el:last-child {
+  margin-right: 0;
+}
+
+.social__link {
+  display: inline-block;
+}
